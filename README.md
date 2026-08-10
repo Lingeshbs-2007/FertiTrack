@@ -1,1 +1,1 @@
-# Blockchain-based Fertilizer Subsidy Tracking System
+# FertiTrack - Blockchain-based Fertilizer Subsidy Tracking System
